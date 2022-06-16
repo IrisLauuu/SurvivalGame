@@ -18,7 +18,7 @@
 9. Item and inventory system. 
    Created item base class and pickable interface. Items refinement.  
    Refine character and items collider. Created items detector which works when overlapping happens.  
-   Pickable panel function and UI. Inventory panel function and UI.
+   Pickable panel function and UI. Inventory panel function and UI.  
    ![image](https://user-images.githubusercontent.com/42362114/173997825-77a15d81-7ac9-4f85-86f3-5504f8901d60.png)
    ![image](https://user-images.githubusercontent.com/42362114/173997893-e47c8a6f-99ae-49b0-8a02-3bd4dc7fef6d.png)
 
